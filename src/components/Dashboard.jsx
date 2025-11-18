@@ -14,7 +14,7 @@ import workoutCard from "../assets/workoutCard.png";
 import graph from "../assets/graph.png";
 
 import stretch from "../assets/stretch.png";
-import backStretch from "../assets/backStretch.png";
+import backStretch from "../assets/backstretch.png";
 import yoga from "../assets/yoga.png";
 import burger from "../assets/burger.png";
 import buritto from "../assets/buritto.png";
